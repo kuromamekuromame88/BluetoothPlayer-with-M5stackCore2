@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        board: [esp32s3usbotg]  # 複数ボード対応可
+        board: [m5stack-core2]  # 複数ボード対応可
 
     steps:
       - name: Checkout repository
