@@ -1,4 +1,0 @@
-# BluetoothPlayer-with-M5stackCore2
-## 説明
-M5stack core2をBluetoothスピーカーにするリポジトリです。追加モジュールなどは一切使用しません。実装してほしい機能等ありましたら提案よろしくお願いします。
-## 使用しているライブラリ
